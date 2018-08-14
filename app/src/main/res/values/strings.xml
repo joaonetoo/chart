@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chats</string>
+    <string name="fotovoltaica">Fotovoltaica</string>
+    <string name="descarga_bateria">Descarga de bateria</string>
+    <string name="rede">Rede</string>
+    <string name="recarregar_bateria">Recarregar bateria de rede</string>
+    <string name="diesel">Diesel</string>
+</resources>
